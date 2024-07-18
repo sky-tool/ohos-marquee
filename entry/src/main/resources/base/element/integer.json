@@ -1,0 +1,24 @@
+{
+  "integer": [
+    {
+      "name": "marquee_trip_message_height",
+      "value": 160
+    },
+    {
+      "name": "ohos_global_state_dialog_number_10",
+      "value": 10
+    },
+    {
+      "name": "ohos_global_state_dialog_close_button_image_size",
+      "value": 20
+    },
+    {
+      "name": "ohos_global_state_dialog_close_button_size",
+      "value": 25
+    },
+    {
+      "name": "ohos_global_state_dialog_close_button_margin_left",
+      "value": 300
+    }
+  ]
+}
