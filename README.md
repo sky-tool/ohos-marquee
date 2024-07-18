@@ -6,7 +6,7 @@
 
 ### 效果图预览
 
-![](../../product/entry/src/main/resources/base/media/marquee.gif) 
+![](marquee.gif) 
 
 **使用说明**：
 
